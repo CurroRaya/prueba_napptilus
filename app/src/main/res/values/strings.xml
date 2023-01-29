@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba Napptilus</string>
+    <string name="first_fragment_label">Listado</string>
+    <string name="second_fragment_label">Detalle</string>
+
+    <string name="oompa_loompa_name">%s %s</string>
+    <string name="retry_button_text">Reintentar</string>
+</resources>
